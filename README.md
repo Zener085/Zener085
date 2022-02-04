@@ -1,4 +1,4 @@
 - Hello, My name is Timofey (or Tim)
-- I'm 17 y.o. I am student of Innopolis University (1 year)
+- I'm 18 y.o. I am student of Innopolis University (1 year)
 - I want to create startup or work in FAANG
 - Instagram: @n1ce_timothy;  Telegram: @n1ce_timothy
