@@ -9,9 +9,6 @@
 
 [//]: # (</a>  )
 
-<a href="https://www.linkedin.com/in/n1ce-timothy/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" alt="">
-</a>
 <a href="mailto:timophydidenko@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="">
 </a>
