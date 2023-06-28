@@ -33,7 +33,7 @@
 
 * 💻 Currently working on MoneyBot and Mushroomity app.
 
-### 🖥️ Open-Source Projects
+### 🖥️ Open-Source Projects ###
 
 | Title                                                                           | Stars                                                                                                                                 |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
@@ -41,10 +41,10 @@
 | [Python for dummies](https://github.com/Zeneriode/Python-for-dummies)           | <img alt="Stars" src="https://img.shields.io/github/stars/Zeneriode/Python-for-dummies?style=flat-square&labelColor=black"/>          |
 | [Mafia bot](https://github.com/Zener085/InnoMafiaBot)                           | <img alt="Stars" src="https://img.shields.io/github/stars/Zener085/InnoMafiaBot?style=flat-square&labelColor=black"/>                 |
 
-<details>
-<summary>📈 Stats</summary>
+---
+
+### 📈Stats ###
 <br>
-My GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zener085&theme=dracula)
 
@@ -52,4 +52,3 @@ My GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zener085&theme=dracula)
 
 <br>
-</details>
