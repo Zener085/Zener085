@@ -31,15 +31,17 @@
 
 * 💡 Open to collaborating on projects and innovative ideas.
 
-* 💻 Currently working on MoneyBot and Mushroomity app.
+* 💻 Currently working on MoneyBot and Django plugin for crypto-payments.
+
+* 🍄 Team-leader and owner of [Mushroomity app](https://capstone.innopolis.university/docs/groups/mushroomity/).
 
 ### 🖥️ Open-Source Projects ###
 
-| Title                                                                           | Stars                                                                                                                                 |
-|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| [FixMyEnglish app](https://github.com/InnoSWP/FixMyEnglish_Group1)              | <img alt="Stars" src="https://img.shields.io/github/stars/InnoSWP/FixMyEnglish_Group1?style=flat-square&labelColor=black"/>           |
-| [Python for dummies](https://github.com/Zeneriode/Python-for-dummies)           | <img alt="Stars" src="https://img.shields.io/github/stars/Zeneriode/Python-for-dummies?style=flat-square&labelColor=black"/>          |
-| [Mafia bot](https://github.com/Zener085/InnoMafiaBot)                           | <img alt="Stars" src="https://img.shields.io/github/stars/Zener085/InnoMafiaBot?style=flat-square&labelColor=black"/>                 |
+| Title                                                                 | Stars                                                                                                                        |
+|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| [FixMyEnglish app](https://github.com/InnoSWP/FixMyEnglish_Group1)    | <img alt="Stars" src="https://img.shields.io/github/stars/InnoSWP/FixMyEnglish_Group1?style=flat-square&labelColor=black"/>  |
+| [Python for dummies](https://github.com/Zeneriode/Python-for-dummies) | <img alt="Stars" src="https://img.shields.io/github/stars/Zeneriode/Python-for-dummies?style=flat-square&labelColor=black"/> |
+| [Mafia bot](https://github.com/Zener085/InnoMafiaBot)                 | <img alt="Stars" src="https://img.shields.io/github/stars/Zener085/InnoMafiaBot?style=flat-square&labelColor=black"/>        |
 
 ---
 
