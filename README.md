@@ -3,17 +3,17 @@
 </p>
 <p align="center">
 
-[//]: # (<a href="https://Resume.pdf">)
-
-[//]: # (    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">)
-
-[//]: # (</a>  )
-
+<a href="https://drive.google.com/file/d/1m9JPCtbuv-l-GtdbvijRH2R22w1UtA9h/view?usp=sharing">
+    <img src="https://img.shields.io/badge/CV(PDF)-blue?style=flat-square">
+</a>
 <a href="mailto:timophydidenko@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="">
 </a>
 <a href='https://calendly.com/timofeymine/meeting' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Calendly-100000?style=flat&logo=calendly&logoColor=white&&color=0181FF'>
+</a>
+<a href='https://leetcode.com/Zener085/' target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FZener085&logo=leetcode&logoColor=yellow'>
 </a>
 </p>
 <p align="center">
@@ -28,11 +28,8 @@
 ---
 
 * 📖 Studying in [Innopolis university](https://innopolis.university/en/).
-
-* 💡 Open to collaborating on projects and innovative ideas.
-
+* 💡 Open for collaborating on projects and innovative ideas.
 * 💻 Currently free.
-
 * 🍄 Team-leader and owner of [Mushroomity app](https://capstone.innopolis.university/docs/groups/mushroomity/).
 
 ### 🖥️ Open-Source Projects ###
